@@ -1,0 +1,14 @@
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\Q5.exe
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\Q5.deps.json
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\Q5.runtimeconfig.json
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\Q5.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\ref\Q5.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\bin\Debug\net6.0\Q5.pdb
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.AssemblyInfoInputs.cache
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.AssemblyInfo.cs
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.csproj.CoreCompileInputs.cache
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\ref\Q5.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.pdb
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\mdt211\week6_practice\Q5\Q5\obj\Debug\net6.0\Q5.genruntimeconfig.cache
